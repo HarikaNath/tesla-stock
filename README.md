@@ -24,7 +24,6 @@ This project is designed to be **interview-ready** by demonstrating:
 
 - **`Tesla Data Set.zip`**  
   Tesla dataset archive used for this project (uploaded for convenience).  
-  ⚠️ Note: For best practice, datasets are typically not committed to GitHub. See “Data” section below.
 
 - **`README.md`**  
   Project documentation (this file)
@@ -83,11 +82,4 @@ Why ExtraTrees?
 - robust for noisy time-series features
 - works well for non-linear relationships
 
----
 
-## How to Run (Recommended)
-
-### Option A — Run the script (`Tesla.py`)
-1) Install dependencies:
-```bash
-pip install pandas numpy scikit-learn matplotlib plotly ipywidgets joblib
